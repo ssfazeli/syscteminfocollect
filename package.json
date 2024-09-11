@@ -1,0 +1,12 @@
+{
+  "name": "systeminfoproject",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.3",
+    "systeminformation": "^5.11.17",
+    "clipboardy": "^3.0.0"
+  }
+}
